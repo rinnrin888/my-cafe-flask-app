@@ -3,7 +3,7 @@
 
 :root {
     --matcha-green: #718355;      /* เขียวชาเขียว */
-    --light-matcha: #97a97c;      /* เขียวอ่อน */
+    --light-matcha: #b4d189;      /* เขียวอ่อน */
     --cream-white: #fcfaf1;       /* ขาวครีม */
     --dark-text: #333d29;         /* เขียวเข้มเกือบดำสำหรับตัวหนังสือ */
 }
@@ -74,6 +74,6 @@ h1, h2, h3, .navbar-brand {
 /* 5. Footer (Commit: "style: add minimalist footer") */
 footer {
     padding: 50px 0;
-    background-color: #f1f3ec;
+    background-color: #f7ffe1;
     border-top: 1px solid rgba(113, 131, 85, 0.05);
 }
